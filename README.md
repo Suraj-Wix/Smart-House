@@ -1,4 +1,4 @@
-# SmartHouse AI – 2025
+## SmartHouse AI – 2025
 An advanced AI-powered House Price Prediction web application built using **Python**, **Streamlit**, and **Machine Learning (Linear Regression)**. Designed for Indian states with intelligent tips and secure user authentication.
 ## Features
 - **Login / Signup System**
@@ -20,4 +20,5 @@ git clone https://github.com/Suraj-Wix/-SmartHouse-AI---2025.git
 cd -SmartHouse-AI---2025
 pip install -r requirements.txt
 streamlit run app.py
+
 
